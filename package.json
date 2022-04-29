@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "apigee-access": "^1.4.0",
-    "async": "^1.5.0",
+    "async": "^2.6.4",
     "express": "^4.17.1"
   }
 }
